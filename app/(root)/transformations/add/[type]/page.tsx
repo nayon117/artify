@@ -1,8 +1,9 @@
+import Header from "@/components/shared/Header";
 
 const AddTransformationTypePage = () => {
     return(
         <div>
-             <p> Welcome to page part </p>
+             <Header title="Transformation title" subtitle="Transformation subtitle" />
         </div>
     )
 }
